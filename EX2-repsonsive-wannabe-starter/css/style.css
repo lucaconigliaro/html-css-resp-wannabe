@@ -147,5 +147,10 @@ img {
     
     .why-us {
         background-color: black;
+        margin-bottom: 0;
+    }
+
+    .steps {
+        margin-bottom: 0;
     }
  }
